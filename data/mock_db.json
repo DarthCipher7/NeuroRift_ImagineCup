@@ -1,0 +1,16 @@
+{
+    "Starbucks": {
+      "10:00 AM": {"crowd": 15, "noise": "Low", "light": "Natural"},
+      "12:00 PM": {"crowd": 45, "noise": "High", "light": "Bright"},
+      "2:00 PM": {"crowd": 30, "noise": "Medium", "light": "Natural"},
+      "4:00 PM": {"crowd": 60, "noise": "Very High", "light": "Dim"},
+      "6:00 PM": {"crowd": 20, "noise": "Low", "light": "Dim"}
+    },
+    "College Library": {
+      "10:00 AM": {"crowd": 5, "noise": "Silent", "light": "Fluorescent"},
+      "12:00 PM": {"crowd": 80, "noise": "Medium", "light": "Fluorescent"},
+      "2:00 PM": {"crowd": 40, "noise": "Low", "light": "Fluorescent"},
+      "4:00 PM": {"crowd": 10, "noise": "Silent", "light": "Natural"},
+      "6:00 PM": {"crowd": 5, "noise": "Silent", "light": "Dim"}
+    }
+  }
